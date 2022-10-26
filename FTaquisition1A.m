@@ -1,4 +1,4 @@
-function FTaquisition (wavelength1, wavelength2,TuningFreq, samples, samRate)
+function FTacquisition (wavelength1, wavelength2,TuningFreq, samples, samRate)
 %FTaquisition is a function written by Austin Ferro (Cheadle lab). 
 % 10/26/22
 %..........................................................................
